@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2yZLqQTgQY4RmhdQxUKM32gVjibdUDPVP4RUrOYg9tU=",
+  "Source": "PlaformService",
+  "BasePath": "_content/PlaformService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
